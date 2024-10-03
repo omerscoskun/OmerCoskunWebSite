@@ -2,4 +2,4 @@
 
 Süleyman Demirel Üniversitesi Web Teknolojileri ve Proglamlama dersinin web sitesi ödevidir.
 
-WebSite Adresi : [](https://omerscoskun.vercel.app/index.html)
+WebSite Adresi : [Site](https://omerscoskun.vercel.app/index.html)
